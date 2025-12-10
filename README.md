@@ -19,9 +19,6 @@
 <a target="_blank" href="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="42" height="42" /></a></p>
 <h2>⚡️ Where to find me</h2>
 <p><a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/krisopras-eben-haezer-a5961b276/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ebenhaezer19&" alt="ebenhaezer19" /></p>
 
-<iframe style="border-radius:12px" 
-src="https://open.spotify.com/embed/playlist/<playlist_id>?utm_source=generator"
-width="100%" height="352" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
+[![spotify widget](https://spootify-zeta.vercel.app/api/Spootify?playlistId=69&userName=Eben&style=liquid&color=000000)](https://github.com/your-username/your-repo)
