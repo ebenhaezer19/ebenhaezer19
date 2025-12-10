@@ -40,6 +40,6 @@ A passionate cybersecurity learner from Indonesia who strives to build robust sy
 <p><a target="_blank" href="https://linkedin.com/in/krisopras-eben-haezer-a5961b276/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
 
 [![spotify widget](https://spootify-zeta.vercel.app/api/Spootify?playlistId=69&userName=Eben&style=liquid&color=000000)](https://github.com/ebenhaezer19/ebenhaezer19) 
-![TryHackMe Badge](https://tryhackme.com/img/badges/3million.svg)
+![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/Darkhole.png)
 
 
