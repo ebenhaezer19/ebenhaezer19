@@ -1,6 +1,6 @@
 <div align="center">
-
-<img src="https://media.tenor.com/2f1A7ZqA1RgAAAAC/hacker-anonymous.gif" width="350" />
+  
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3anJjYmluZDJwbXZwN2I2ZnRvOHQ1bm40d2ZrbnZqYzJkNDVpZzE2cSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/7vdlbr6lcVAmGK7lhB/giphy.gif" width="350" />
 
 # Hi, I’m Eben  
 ### IT & Big Data Analytics Student | Software Engineering | System Design | SOC Level 3 Cybersecurity
