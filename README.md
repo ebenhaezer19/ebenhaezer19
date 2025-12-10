@@ -21,9 +21,7 @@
 <p><a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/krisopras-eben-haezer-a5961b276/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ebenhaezer19&" alt="ebenhaezer19" /></p>
 
-<iframe data-testid="embed-iframe" style="border-radius:12px"
-src="https://open.spotify.com/embed/track/2Gt7fjNlX9O1pPRkvBiNBZ?utm_source=generator"
-width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay;
-clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy">
-</iframe>
+<iframe style="border-radius:12px" 
+src="https://open.spotify.com/embed/playlist/<playlist_id>?utm_source=generator"
+width="100%" height="352" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
