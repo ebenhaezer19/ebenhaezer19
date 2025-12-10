@@ -37,7 +37,19 @@ A passionate cybersecurity learner from Indonesia who strives to build robust sy
 <a target="_blank" href="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="42" height="42" /></a></p>
 <h2>⚡️ Where to find me</h2>
-<p><a target="_blank" href="https://linkedin.com/in/krisopras-eben-haezer-a5961b276/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
+<p>
+  <!-- LinkedIn -->
+  <a target="_blank" href="https://linkedin.com/in/krisopras-eben-haezer-a5961b276/" style="display: inline-block;">
+    <img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" />
+  </a>
+</p>
+
+<p>
+  <!-- Portfolio -->
+  <a target="_blank" href="https://krisoprasebenhaezer.vercel.app/" style="display: inline-block;">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-black?style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio" />
+  </a>
+</p>
 
 ### TryHackMe Profile
 [![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/Darkhole.png)](https://tryhackme.com/p/Darkhole)
