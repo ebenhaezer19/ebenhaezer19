@@ -18,6 +18,6 @@
 <a target="_blank" href="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="42" height="42" /></a></p>
 <h2>⚡️ Where to find me</h2>
-<p><a target="_blank" href="https://www.linkedin.com/in/https://linkedin.com/in/krisopras-eben-haezer-a5961b276/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
+<p><a target="_blank" href="[https://www.linkedin.com/in/https://linkedin.com/in/krisopras-eben-haezer-a5961b276/](https://www.linkedin.com/in/krisopras-eben-haezer-a5961b276/)" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
 
 [![spotify widget](https://spootify-zeta.vercel.app/api/Spootify?playlistId=69&userName=Eben&style=liquid&color=000000)](https://github.com/ebenhaezer19/ebenhaezer19)
