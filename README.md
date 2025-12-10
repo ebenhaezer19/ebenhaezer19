@@ -1,5 +1,24 @@
-<h1>Hi, I’m Eben. I am an IT & Big Data Analytics student with strong interest in software engineering, system design, and cybersecurity analysis (SOC Level 3). My work focuses on building practical, reliable, and scalable applications using modern web technologies and data-driven workflows.</h1>
-<p>A passionate CySec from Indonesia</p>
+<div align="center">
+
+<img src="https://media.tenor.com/2f1A7ZqA1RgAAAAC/hacker-anonymous.gif" width="350" />
+
+# Hi, I’m Eben  
+### IT & Big Data Analytics Student | Software Engineering | System Design | SOC Level 3 Cybersecurity
+
+</div>
+
+I am focused on building practical, reliable, and scalable applications powered by modern web technologies and data-driven workflows. My technical interests span across:
+
+- Software engineering and backend architecture  
+- Secure system design and multithreaded processing  
+- Threat detection, SOC analysis, and incident response  
+- Data modeling, analytics, and performance optimization  
+
+A passionate cybersecurity learner from Indonesia who strives to build robust systems aligned with real-world operational needs.
+
+---
+
+
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="42" height="42" /></a>
